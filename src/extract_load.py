@@ -44,7 +44,7 @@ if __name__ == "__main__":
     salvar_no_postgres(dados_concatenados, schema = 'public')
 
 # Pegar a cotação dos meus ativos
-
+ 
 # Concatenar os meus ativos )1..2..3) -> (1)
 
 # Salvar no banco de dados
